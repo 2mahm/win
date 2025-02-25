@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.cus{
+  flex-wrap: wrap;
+}
+.list{
+  width: 100px;
+  list-style: none;
+  margin: 10px;
+}
+.counter{
+  width: 150px;
+  margin: auto;
+  border-radius: 100px;
+  margin-top: 20px;
+}
+.win{
+  width: 300px;
+  border-radius: 40px;
+  padding: 10px;
+  background:#e9e7e4;
+  
+}
